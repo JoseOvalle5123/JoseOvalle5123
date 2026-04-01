@@ -10,7 +10,7 @@ Soy un desarrollador enfocado en la creación de soluciones escalables, desde ap
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | JavaScript, PHP, Python, Ruby, Kotlin |
+| **Lenguajes** | JavaScript, PHP, Python, Ruby, Kotlin, TypeScript |
 | **Frameworks** | Laravel, React, Vue.js, Flutter, Ruby on Rails |
 | **Backend & DB** | SQL, MongoDB, Firebase, REST APIs |
 | **DevOps & Herramientas** | Docker, Git |
