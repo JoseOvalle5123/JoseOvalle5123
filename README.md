@@ -25,7 +25,7 @@ Soy un desarrollador enfocado en la creación de soluciones escalables, desde ap
 - Plataforma de exploración de destinos turísticos de México.
 - Interfaz 100% responsiva orientada a la experiencia del usuario (UX).
 
-### 🏫 Plataforma Educativa CBTA No.215
+### 🏫 Plataforma Educativa CBTA No.216
 **Proyecto Institucional** | *Desarrollador de Software*
 - Diseño e implementación de la arquitectura del sistema educativo.
 - Desarrollo de módulos funcionales y gestión de bases de datos integrales.
