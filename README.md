@@ -6,16 +6,16 @@ Soy Ingeniero en Gestión y Desarrollo de Software enfocado en el diseño e impl
 
 ---
 
-## 💼 Experiencia Laboral & Proyectos Destacados
+##  Experiencia Laboral & Proyectos Destacados
 
-### 🏛️ Sistema de Apoyos Sociales | Presidencia Municipal de Gómez Palacio
+###  Sistema de Apoyos Sociales | Presidencia Municipal de Gómez Palacio
 **Desarrollador Full Stack Lead**
 - Diseñé y desarrollé un sistema integral para la gestión, registro y control de entrega de apoyos sociales del municipio.
 - **Backend:** Arquitectura orientada a API RESTful en **Laravel**, autenticación segura con **Laravel Sanctum** e integración de bases de datos relacionales en **MariaDB / MySQL**.
 - **Gestión & Proceso:** Control de versiones con **Git/GitHub**, modelado relacional optimizado y despliegue/configuración en entornos **Linux**.
 - **Módulos:** Gestión de usuarios, control de roles y permisos, auditoría de entregas y reporteador de solicitudes.
 
-### 🏫 Plataforma Educativa | CBTA No. 216
+###  Plataforma Educativa | CBTA No. 216
 **Desarrollador de Software**
 - Diseñé e implementé la arquitectura de la plataforma educativa institucional para control académico y consulta de usuarios.
 - Integración de módulos funcionales y administración de base de datos centralizada.
@@ -27,7 +27,7 @@ Soy Ingeniero en Gestión y Desarrollo de Software enfocado en el diseño e impl
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -40,14 +40,14 @@ Soy Ingeniero en Gestión y Desarrollo de Software enfocado en el diseño e impl
 
 ---
 
-## 🎓 Formación Académica
+##  Formación Académica
 - **Ingeniería en Gestión y Desarrollo de Software** — Universidad Tecnológica de la Laguna *(Graduado)*
 - Especialización en **Sistemas Distribuidos**, Arquitectura Web y Metodologías Ágiles (Scrum).
 - **Idiomas:** Español (Nativo) | Inglés (Intermedio)
 
 ---
 
-## 📬 Contacto & Redes
+##  Contacto & Redes
 - **Email:** [ovallejuan3124@gmail.com](mailto:ovallejuan3124@gmail.com)
 - **GitHub:** [github.com/JoseOvalle5123](https://github.com/JoseOvalle5123)
-- **Ubicación:** Gómez Palacio / Cd. Juárez, Durango, México
+- **Ubicación:** Cd. Juárez, Durango, México
